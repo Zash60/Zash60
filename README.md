@@ -71,7 +71,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Zash60&label=Visitors&color=0FBCF9&style=flat" alt="Profile Views" />
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.com/users/zash_6)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zash_6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zash_6?si=AcbstNfukJhShwf-)
 
 </div>
