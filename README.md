@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zash60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zash60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zash60&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
@@ -39,15 +39,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25"/> Projetos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25"/> Meus Projetos
 
 <div align="center">
 
-| Projeto | Descrição |
-|---------|-----------|
-| [SM64 Mobile Records](https://github.com/Zash60/sm64-mobile-records) | Speedrun records for SM64 Mobile |
-| [LiveSplit Mobile](https://github.com/Zash60/livesplit-mobile) | Timer de speedrun para Android |
-| [Android Speedrun Timer](https://github.com/Zash60/Android-Speedrun-timer) | App de timer para speedruns |
+<a href="https://github.com/Zash60/Zash60">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zash60&repo=Zash60&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -57,9 +55,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zash60&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zash60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_rankings=true" height="170"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zash60&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zash60&theme=tokyo-night&hide_border=true" width="500"/>
 
 </div>
 
