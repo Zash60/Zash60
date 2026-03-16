@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0FBCF9&center=true&vCenter=true&random=false&width=435&lines=Tempest+Dragon+Rimuru;SLIME+FOREVER;Evoluindo+sempre+%F0%9F%92%AA;Seja+bem+vindo+ao+meu+reino" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd0NXVtMnBpYnBpOHJlYWtlMmd2N2x2eHd6M2R1c3FqNHRpOHJpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="350" alt="Rimuru Slime" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJpejZrZnk2dmUyc3g3eG43YWlmbWZpbDdneWJrd3o2cmtucDl2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/riAnEhoDPDs9gwZ6bm/giphy.gif" width="350" alt="Rimuru Slime" />
 
-<img src="https://img.shields.io/badge/-Rimuru%20Tempest-0FBCF9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzBCQ0Y5Ii8+PC9zdmc+&labelColor=1e1e2e&color=0FBCF9" />
+<img src="https://img.shields.io/badge/-Rimuru%20Tempest-0FBCF9?style=for-the-badge&labelColor=1e1e2e&color=0FBCF9" />
 <img src="https://img.shields.io/badge/-Great%20Sage-9B59B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" />
 <img src="https://img.shields.io/badge/-Raphael-00D2D3?style=for-the-badge&logo=codeium&logoColor=white&labelColor=1e1e2e" />
 
@@ -67,7 +67,7 @@
 
 ### 🐉 *"A dor que não pode ser removida deve ser suportada."* — Rimuru Tempest
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqOWF0Y2FtOGs1Ym5qNmx3N2U1d2F0MTU1b3BqaXlsam95MHF3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YP5LzJyMmKq7X0v0tB/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWlvMW1pMTdnMGR1ZTlndGJsN2ZmcXp5aGxud3Y0Y3YyMW82ZXM4YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/B1GMR4hXEVYRqOe1kD/giphy.gif" width="200"/>
 
 <img src="https://komarev.com/ghpvc/?username=Zash60&label=Visitors&color=0FBCF9&style=flat" alt="Profile Views" />
 
