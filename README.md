@@ -1,0 +1,79 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0FBCF9&center=true&vCenter=true&random=false&width=435&lines=Tempest+Dragon+Rimuru;SLIME+FOREVER;Evoluindo+sempre+%F0%9F%92%AA;Seja+bem+vindo+ao+meu+reino" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd0NXVtMnBpYnBpOHJlYWtlMmd2N2x2eHd6M2R1c3FqNHRpOHJpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="350" alt="Rimuru Slime" />
+
+<img src="https://img.shields.io/badge/-Rimuru%20Tempest-0FBCF9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzBCQ0Y5Ii8+PC9zdmc+&labelColor=1e1e2e&color=0FBCF9" />
+<img src="https://img.shields.io/badge/-Great%20Sage-9B59B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" />
+<img src="https://img.shields.io/badge/-Raphael-00D2D3?style=for-the-badge&logo=codeium&logoColor=white&labelColor=1e1e2e" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, Visitante!
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zash60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zash60&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/2530/2530778.png" width="25"/> Minhas Skills
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="25"/> Projetos
+
+<div align="center">
+
+| Projeto | Descrição |
+|---------|-----------|
+| [SM64 Mobile Records](https://github.com/Zash60/sm64-mobile-records) | Speedrun records for SM64 Mobile |
+| [LiveSplit Mobile](https://github.com/Zash60/livesplit-mobile) | Timer de speedrun para Android |
+| [Android Speedrun Timer](https://github.com/Zash60/Android-Speedrun-timer) | App de timer para speedruns |
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" width="25"/> Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zash60&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zash60&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐉 *"A dor que não pode ser removida deve ser suportada."* — Rimuru Tempest
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqOWF0Y2FtOGs1Ym5qNmx3N2U1d2F0MTU1b3BqaXlsam95MHF3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YP5LzJyMmKq7X0v0tB/giphy.gif" width="200"/>
+
+<img src="https://komarev.com/ghpvc/?username=Zash60&label=Visitors&color=0FBCF9&style=flat" alt="Profile Views" />
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+
+</div>
